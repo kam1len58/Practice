@@ -1,20 +1,19 @@
-# Отключение папок bin и obj
+# Ignore bin and obj folders
 bin/
 obj/
 
-# Отключение файлов, созданных Visual Studio
+# Ignore Visual Studio files
 .vs/
 .vscode/
 
-# Отключение пользовательских настроек, которые не должны попадать в репозиторий
+# Ignore user settings files
 *.user
 *.userosscache
 *.suo
 *.userprefs
 
-# Отключение всех файлов сборки
+# Ignore build output files
 *.dll
 *.exe
 *.pdb
 *.cache
-
