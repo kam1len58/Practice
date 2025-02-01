@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\practice\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F93BB980-4FCA-4121-A65A-B9E45C743C7D}|\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1.csproj|c:\\users\\admin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F93BB980-4FCA-4121-A65A-B9E45C743C7D}|\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1.csproj|c:\\users\\admin\\desktop\\practice\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F93BB980-4FCA-4121-A65A-B9E45C743C7D}|\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\practice\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Program.cs",
               "RelativeDocumentMoniker": "\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\practice\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Program.cs",
               "RelativeToolTip": "\u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T15:20:05.564Z",
               "EditorCaption": ""
