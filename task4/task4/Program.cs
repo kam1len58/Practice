@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace task3
+namespace task4
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Введите строку:");
             string alphabet = "abcdefghijklmnopqrstuvwxyz";
             string s = Console.ReadLine();
 
@@ -47,6 +47,7 @@ namespace task3
                     g += c;
                 }
             }
+            
             Console.WriteLine("\nОбработанная строка:");
             string n, m,sum;
             if (g.Length % 2 == 0)
@@ -58,9 +59,6 @@ namespace task3
                 sum = n + m;
                 Console.WriteLine(sum);
 
-                
-                
-
             }
             else
             {
@@ -68,28 +66,66 @@ namespace task3
                 sum = n + g;
                 Console.WriteLine(sum);
             }
-            Console.WriteLine("\nКол-во символов,которые встречаются в строке:");
+            
+            int iy=  -1;
+            int yx = -1;
+
+            string letter = "aeiouy";
+            string b = "";
+            for (int i=0;i<sum.Length;i++)
+            {
+                for (int j= letter.Length-1; j>=0;j--)
+                {
+                    if (sum[i] == letter[j])
+                    {
+                        if (iy==-1) 
+                            iy = i;
+                        yx = i;
+                        break;
+                        
+                    }
+                }
+            }
+            
+            Console.WriteLine("Кол-во символов встречающихся в строке:");
             int k = 0;
-            for (char c = 'a'; c <='z';c++)
+            for (char c = 'a'; c <= 'z'; c++)
             {
                 k = 0;
-                for (int i = 0; sum.Length > i; i++)
+                for (int i = 0; s.Length > i; i++)
                 {
-                    if (sum[i] == c)
-                    { 
-                       k++;
+                    if (s[i] == c)
+                    {
+                        k++;
                     }
-                    
+
                 }
-                if (k>0)
+                if (k > 0)
                 {
-                    Console.WriteLine(c + " встречается " + k+ " раз");
+                    Console.WriteLine(c + " встречается " + k + " раз(a)");
                 }
 
-                
+
+            }
+            string ss = "";
+            if (iy != -1 && yx != -1)
+            {
+
+                for (int i = iy; i <= yx; i++)
+                {
+
+                    ss += sum[i];
+                }
+                Console.WriteLine("\nСамая длинная подстрока начинающаяся и заканчивающаяся на гласную: " + ss);
+            }
+            else
+            {
+                Console.WriteLine("Cтрока содержит только согласные буквы");
             }
         }
 
     }
 
 }
+    
+
