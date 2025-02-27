@@ -1,23 +1,9 @@
-# Ignore bin and obj folders
+# Игнорировать папки сборки
 bin/
 obj/
 
-# Ignore Visual Studio files
-.vs/
-.vscode/
-
-# Ignore user settings files
-*.user
-*.userosscache
-*.suo
-*.userprefs
-
-# Ignore build output files
+# Игнорировать другие временные файлы
 *.dll
 *.exe
 *.pdb
 *.cache
-
-# Ignore zadanie.txt
-zadanie.txt
-
