@@ -1,0 +1,23 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
+.vscode/
+
+# Ignore user settings files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore build output files
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Ignore zadanie.txt
+zadanie.txt
+
