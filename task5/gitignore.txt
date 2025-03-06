@@ -17,3 +17,7 @@ obj/
 *.exe
 *.pdb
 *.cache
+
+# Ignore zadanie.txt
+zadanie.txt
+
