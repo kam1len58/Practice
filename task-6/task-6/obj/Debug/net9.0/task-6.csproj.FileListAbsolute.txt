@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\practice\task-6\task-6\bin\Debug\net9.0\task-6.exe
+C:\Users\Admin\Desktop\practice\task-6\task-6\bin\Debug\net9.0\task-6.deps.json
+C:\Users\Admin\Desktop\practice\task-6\task-6\bin\Debug\net9.0\task-6.runtimeconfig.json
+C:\Users\Admin\Desktop\practice\task-6\task-6\bin\Debug\net9.0\task-6.dll
+C:\Users\Admin\Desktop\practice\task-6\task-6\bin\Debug\net9.0\task-6.pdb
+C:\Users\Admin\Desktop\practice\task-6\task-6\obj\Debug\net9.0\task-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\practice\task-6\task-6\obj\Debug\net9.0\task-6.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\practice\task-6\task-6\obj\Debug\net9.0\task-6.AssemblyInfo.cs
+C:\Users\Admin\Desktop\practice\task-6\task-6\obj\Debug\net9.0\task-6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\practice\task-6\task-6\obj\Debug\net9.0\task-6.sourcelink.json
+C:\Users\Admin\Desktop\practice\task-6\task-6\obj\Debug\net9.0\task-6.dll
+C:\Users\Admin\Desktop\practice\task-6\task-6\obj\Debug\net9.0\refint\task-6.dll
+C:\Users\Admin\Desktop\practice\task-6\task-6\obj\Debug\net9.0\task-6.pdb
+C:\Users\Admin\Desktop\practice\task-6\task-6\obj\Debug\net9.0\task-6.genruntimeconfig.cache
+C:\Users\Admin\Desktop\practice\task-6\task-6\obj\Debug\net9.0\ref\task-6.dll
